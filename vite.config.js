@@ -6,3 +6,5 @@ export default defineConfig({
   plugins: [react()],
   assetsInclude: ['**/*.glb'],
 })
+
+<!-- Update 2024-11-19T07:40:15+05:30 -->
