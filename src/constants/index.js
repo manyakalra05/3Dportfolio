@@ -1,4 +1,4 @@
-import { shopify, starbucks } from "../assets/images";
+import { igdtuw, max } from "../assets/images";
 import {
     car,
     contact,
@@ -87,7 +87,7 @@ export const experiences = [
     {
         title: "High School Student",
         company_name: "Maxfort School Dwarka",
-        icon: starbucks,
+        icon: max,
         iconBg: "#accbe1",
         date: "April 2020 - March 2023",
         points: [
@@ -101,7 +101,7 @@ export const experiences = [
     {
         title: "Batch of 2027, CSE Branch",
         company_name: "IGDTUW",
-        icon: shopify,
+        icon: igdtuw,
         iconBg: "#b7e4c7",
         date: "Aug 2023 - May 2027",
         points: [
