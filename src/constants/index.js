@@ -169,8 +169,8 @@ export const projects = [
     },
     {
         iconUrl: summiz,
-        theme: 'Rock Paper Scissors',
-        name: 'AI Summarizer Application',
+        theme: 'btn-back-orange',
+        name: 'Rock Paper Scissors',
         description: 'Test your odds at winning against a computer through a game of Rock Paper Scissors.',
         link: 'https://manyakalra05-rockpaperscissors.netlify.app/',
     }
