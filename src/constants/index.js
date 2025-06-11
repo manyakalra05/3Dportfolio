@@ -1,4 +1,4 @@
-import { meta, shopify, starbucks, tesla } from "../assets/images";
+import { shopify, starbucks } from "../assets/images";
 import {
     car,
     contact,
@@ -144,7 +144,7 @@ export const projects = [
         theme: 'btn-back-green',
         name: 'A Theme toggler Portfloio',
         description: 'A beautiful portfolio web app that contains a cool meteor shower in the background!',
-        link: 'https://github.com/adrianhajdin/threads',
+        link: 'https://manyakalra05-mainportfolio.netlify.app/',
     },
     {
         iconUrl: car,
