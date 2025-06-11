@@ -142,7 +142,7 @@ export const projects = [
     {
         iconUrl: threads,
         theme: 'btn-back-green',
-        name: 'A Theme toggler Portfloio',
+        name: 'A Theme toggler Portfolio',
         description: 'A beautiful portfolio web app that contains a cool meteor shower in the background!',
         link: 'https://manyakalra05-mainportfolio.netlify.app/',
     },
